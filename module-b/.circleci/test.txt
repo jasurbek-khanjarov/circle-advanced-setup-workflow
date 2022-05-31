@@ -1,2 +1,2 @@
 this is a text test file for dir B
-B is changed
+B is changed on May 31
